@@ -10,32 +10,7 @@
     background-position: center;
     color: white;
 }
-/* .hero-cloth1 {
-    /* min-height: calc(100vh - 80px);
-    width: 40%;
-    height: 300px;
-    background: #999;
-    display:inline-block;
-    background-image: url('./img/men1.jpg');
-    /* background-image: url('./img/men.jpg'); */
-  /*  background-size: cover;
-    background-position: center;
-    color: white;
-    text-align: center;
-    float: right;
-} */
 
-/* .hero-cloth-text-container {
-    padding: 40vh 40px 40px;
-}
-
-.hero-cloth-text-container h1 {
-    margin-bottom: 10px;
-}
-
-.hero-cloth-text-container p {
-    margin-bottom: 40px;
-} */
 
 @media (max-width: 700px) {
     .hero-cloth {
@@ -43,31 +18,6 @@
         background-image: url('./img/men.jpg');
 
     }}
-    /* @media (max-width: 700px) {
-        .hero-cloth1 {
-            min-height: 300px;
-            width: 150px;
-            background-image: url('./img/men1.jpg');
-
-        }} */
-    /* .hero-cloth-text-container {
-        padding: 2em;
-        padding-top: 100px;
-    }
-
-    .hero-cloth-text-container h1 {
-        font-size: 32px;
-        margin-bottom: 20px;
-    }
-
-    .hero-cloth-text-container p {
-        font-size: 16px;
-        margin-bottom: 40px;
-    }
-
-    .hero-cloth-text-container .button {
-        margin-bottom: 40px;
-    } */
 
 
 
@@ -101,7 +51,7 @@ Hero Styles
 @media (max-width: 700px) {
     .heroabt {
         min-height: 400px;
-        background-image: url('./img/theme.jpg');
+        background-image: url('./img/men1.jpg');
     }
 
 }
